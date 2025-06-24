@@ -16,7 +16,7 @@
   – блокнот с анализом (`panel_analysis.ipynb`)
 
 - **scripts/**  
-  – шаблоны парсеров отзывов: `parse_yandex_maps.py`, `parse_otzovik.py`  
+  – шаблоны парсеров по отзывам: `parse_yandex_maps.py`, `parse_otzovik.py`  
   – подробности и дисклеймер см. в `scripts/description.md`
 
 - **reports/**  
