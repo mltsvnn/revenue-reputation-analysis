@@ -30,14 +30,13 @@
 
 ## Зависимости
 
-Для воспроизведения анализа вам понадобятся:
+Для воспроизведения анализа требуется Python ≥ 3.8 и следующие библиотеки:
 
-- Python ≥3.8  
-- pandas  
-- numpy  
-- selenium  
-- statsmodels  
-- linearmodels  
-- pytrends  
-- nltk  
-- matplotlib  
+- `pandas`
+- `numpy`
+- `selenium`
+- `statsmodels`
+- `linearmodels`
+- `pytrends`
+- `nltk`
+- `matplotlib`
